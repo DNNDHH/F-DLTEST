@@ -1,2 +1,1 @@
-# F-DLTEST
-TSET
+# FGO Daily Login
